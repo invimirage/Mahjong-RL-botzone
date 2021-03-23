@@ -8,8 +8,8 @@
 - 强化学习部分文件为`PolicyGradient.py`，`A3C.py`以及`PolicyGradient_naive.py`，前者为主要研究的部分，后两者为初期尝试的代码，没有经过很好的debug和维护。
 - 工具文件为`model_handler.py`，用于将模型数据缩小以在botzone运行。
 - 数据文件中包括人类对局原始数据，深度学习的训练数据（即filereader.py得到的结果），训练得到的模型三部分。深度学习得到的初始模型为models文件夹中的super_model_2，经过强化学习训练得到的模型为rl_pg_new，用于botzone的模型为super_model_small。
-文件连接：https://pan.baidu.com/s/1wpPBHq3MRngMQx9EAS6-aw 
-提取码：agmm 
+  + 文件连接：[百度网盘](https://pan.baidu.com/s/1wpPBHq3MRngMQx9EAS6-aw )
+  + 提取码：agmm 
 
 
 ## 代码运行方式

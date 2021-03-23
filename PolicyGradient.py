@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # encoding: utf-8
+'''
+@file: filereader.py
+@time: ？？？？
+强化学习模型
+'''
 
 import json
 from MahjongGB import MahjongFanCalculator

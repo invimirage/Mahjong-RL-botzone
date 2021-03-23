@@ -2,10 +2,8 @@
 # encoding: utf-8
 '''
 @author: zrf
-@license: (C) Copyright 2013-2017, Node Supply Chain Manager Corporation Limited.
-@file: DL_agent.py
 @time: 2020/12/10 13:27
-@desc:
+深度学习
 '''
 import json
 from MahjongGB import MahjongFanCalculator

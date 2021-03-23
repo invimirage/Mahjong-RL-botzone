@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # encoding: utf-8
+'''
+@file: filereader.py
+@time: ？？？？
+缩小模型供botzone使用
+'''
 import torch
 import argparse
 

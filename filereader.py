@@ -3,7 +3,7 @@
 '''
 @file: filereader.py
 @time: 2020/12/19 18:34
-@desc:
+转换原始训练数据
 '''
 # _*_coding:utf-8_*_
 import time, threading
